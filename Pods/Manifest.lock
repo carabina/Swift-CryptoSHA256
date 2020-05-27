@@ -1,0 +1,16 @@
+PODS:
+  - SPAlert (2.1.4)
+
+DEPENDENCIES:
+  - SPAlert
+
+SPEC REPOS:
+  trunk:
+    - SPAlert
+
+SPEC CHECKSUMS:
+  SPAlert: 1a8afa1c6ac86a82ab5b2cfdf7f9a51e68cb6c0c
+
+PODFILE CHECKSUM: e865fa934613c7a0e7b14c3edf9b93945f1e230a
+
+COCOAPODS: 1.9.2

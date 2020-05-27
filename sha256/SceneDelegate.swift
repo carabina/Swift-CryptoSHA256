@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  sha256
 //
-//  Created by zouhair on 27/05/2020.
-//  Copyright © 2020 zouhair mouhsine. All rights reserved.
+//  Created by devzhr on 27/05/2020.
+//  Copyright © 2020 devzhr. All rights reserved.
 //
 
 import UIKit
